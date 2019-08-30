@@ -1,0 +1,29 @@
+Enter the number of nodes
+Enter the nodes:The matrix obtained is
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 1 1 1 1 1 1 1 1 1 
+0 0 0 1 1 1 1 1 1 1 1 
+0 0 0 0 1 1 1 1 1 1 1 
+0 0 0 0 0 1 1 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 1 
+0 0 0 0 0 0 0 1 1 1 1 
+0 0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 
+Enter the node whose relation you want to find
+2 3 4 5 6 7 8 9 10 
+Enter 0 to continue 1 to exit
+Enter the node whose relation you want to find
+4 5 6 7 8 9 10 
+Enter 0 to continue 1 to exit
+Enter the node whose relation you want to find
+6 7 8 9 10 
+Enter 0 to continue 1 to exit
+Enter the node whose relation you want to find
+9 10 
+Enter 0 to continue 1 to exit
+Enter the node whose relation you want to find
+Entered node is not related to any other node
+
+Enter 0 to continue 1 to exit
